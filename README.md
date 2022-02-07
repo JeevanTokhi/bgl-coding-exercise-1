@@ -1,5 +1,9 @@
 # BGL Coding Exercise - Game Of Life
 
+Fork this repo into your account
+Make a new branch
+When you are finished, make a PR on your fork, and invite the person specified in the email to your fork
+
 ## Rule of Conway's Game of Life.
 
 Given a 200*200 square cells, each cell is in one of two possible states, alive or dead, or "populated" or "unpopulated". Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
